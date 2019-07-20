@@ -8,11 +8,10 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+# header:
+#  caption: ""
+#  image: ""
 ---
 
-*Upcoming:*
-North American Cartographic Information Society, Tacoma, WA 
-October 2019
+header: North American Cartographic Information Society, Tacoma, WA 
+  caption: "*Upcoming* October 2019"
