@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Courtney Lee
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Policy Researcher and Writer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Public Policy Institute of California
+  url: "www.ppic.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I enjoy storytelling with data.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Exploration
+- Visualization
+- and more!
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Mathematics
+    institution: University of California, Los Angeles
+    year: 2016
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+# icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/leecourt98
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! My name is Courtney Lee and I’m interested in crafting stories with and from data. I enjoy drawing from both quantitative and qualitative perspectives to show impacts for broad audiences. My most frequently used methods are statistical data analysis (descriptive and regressions) and historical research, which I then carefully weave together to form a narrative.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Most days of the week, I am a research associate at the Public Policy Institute of California’s Higher Education Center. I study the topics of affordability, access, and completion to and through higher education very closely.  Some publications I have written include bits on [California’s financial aid](https://www.ppic.org/publication/state-financial-aid-in-california/), state level strategies to [reduce student debt](https://www.ppic.org/blog/state-level-strategies-to-reduce-student-debt/), and [non-tuition fees](http://www.ppic.org/blog/rising-cost-college-student-fees/). 
+
+Prior to becoming a policy researcher, I worked in evaluation and operations at ScholarMatch, a college access nonprofit based in San Francisco, dabbled in computer vision at an applied mathematics summer program, and interned at the Los Angeles Times’ Data Desk. I hold a BS in mathematics with a minor in statistics from UCLA. 
