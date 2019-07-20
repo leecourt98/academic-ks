@@ -58,8 +58,8 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
+email = "courtney@courtneylee.net"
+phone = "+1 415 555 4321"
 address = "San Francisco, California, 94111, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
