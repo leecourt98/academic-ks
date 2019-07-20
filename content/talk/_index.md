@@ -11,8 +11,8 @@ view: 2
 header:
   caption: ""
   image: ""
+---
 
 header: North American Cartographic Information Society, Tacoma, WA 
   caption: "October 2019"
   image: ""
----
