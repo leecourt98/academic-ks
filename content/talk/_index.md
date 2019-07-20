@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-*Upcoming:*
-North American Cartographic Information Society, Tacoma, WA 
-October 2019
+header: North American Cartographic Information Society, Tacoma, WA 
+  caption: "October 2019"
+  image: ""
