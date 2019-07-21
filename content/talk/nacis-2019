@@ -5,7 +5,7 @@ title: "Nacis 2019"
 subtitle: "North American Cartographic Information Society"
 summary: "a short talk on mapping with R and ggmap"
 authors: []
-tags: [cartography, R, ggmap]
+tags: ["cartography", "R", "ggmap"]
 categories: []
 date: 2019-10-01T13:00:00-07:00
 lastmod: 2019-07-20T19:09:58-07:00
@@ -28,3 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+I will give a short talk about making maps with R and ggmap. 
