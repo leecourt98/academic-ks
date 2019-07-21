@@ -28,3 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+I will give a short talk about making maps with R and ggmap. 
