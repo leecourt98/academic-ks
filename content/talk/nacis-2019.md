@@ -7,7 +7,7 @@ summary: "a short talk on mapping with R and ggmap"
 authors: []
 tags: ["cartography", "R", "ggmap"]
 categories: []
-date: 2019-10-01T13:00:00-07:00
+date: 2019-07-20T13:00:00-07:00
 lastmod: 2019-07-20T19:09:58-07:00
 featured: false
 draft: false
@@ -29,4 +29,4 @@ image:
 projects: []
 ---
 
-I will give a short talk about making maps with R and ggmap. 
+I will give a short talk about making maps with R and ggmap in October 2019. 
