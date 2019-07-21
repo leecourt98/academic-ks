@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nacis 2019"
+title: "North American Cartographic Information Society 2019"
 subtitle: "North American Cartographic Information Society"
-summary: "a short talk on mapping with R and ggmap"
+summary: "A short talk on mapping with R and ggmap"
 authors: []
 tags: ["cartography", "R", "ggmap"]
 categories: []
@@ -13,6 +13,7 @@ featured: false
 draft: false
 
 location: "Tacoma, WA"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
